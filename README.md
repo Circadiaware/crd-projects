@@ -1,7 +1,7 @@
 # Circadian Rhythm Disorder Projects
 **An overview of CRD-related projects that are currently being worked on.**
 
-Anyone can add a CRD-related project they or another person are currently working on, for the purpose of keeping an overview of existing efforts.  
+Anyone can [open an issue](https://github.com/Circadiaware/crd-projects/issues/new/choose) to add a CRD-related project they or another person are currently working on, for the purpose of keeping an overview of existing efforts.  
 
 | Project      | Description (short)                                    | Status       | Comments |
 |--------------|--------------------------------------------------------|--------------|----------|
