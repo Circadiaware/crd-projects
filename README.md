@@ -10,7 +10,7 @@ These projects are being actively developed and already have a working implement
 | Project      | Description (short)                                    | Status       | Comments |
 |--------------|--------------------------------------------------------|--------------|----------|
 | [Sleep Diary Dashboard](https://sleepdiary.github.io/dashboard) | A dashboard to view your sleep diary | Active development | [Source code](https://github.com/sleepdiary/dashboard), by Andrew Sayers |
-| [Sleep Diary Library](https://github.com/sleepdiary/library) | Documentation and code for manipulating sleep diaries | Active development | by Andrew Sayers |
+| [Sleep Diary Core Library](https://github.com/sleepdiary/core) | [Documentation](https://sleepdiary.github.io/core) and code for manipulating sleep diaries | Active development | by Andrew Sayers |
 | [Sleep Diary Info](https://github.com/sleepdiary/info) | Analyse your sleep diary | Active development | by Andrew Sayers |
 | [Sleep Diary Report](https://github.com/sleepdiary/report) | A report for use by sleep doctors | Active development | by Andrew Sayers |
 | [SleepCharter](https://sleepcharter.z13.web.core.windows.net/) | Tool to generate sleep charts from CSV files of some popular devices / apps | Live | Source code not published, made by [Kizari](https://github.com/Kizari) |
