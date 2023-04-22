@@ -24,7 +24,7 @@ These open-source projects are developed by other developers outside of the Circ
 | [Sleep Diary Dashboard](https://sleepdiary.github.io/dashboard) | A dashboard to view your sleep diary | Live | [Source code](https://github.com/sleepdiary/dashboard), by Andrew Sayers |
 | [FitBit-Sleep-Vis](https://fitbit-sleep-vis.netlify.app/) | Dashboard to view FitBit sleep data as a sleep graph and heatmap | Live | [Source code](https://github.com/carrotflakes/fitbit-sleep-vis) available, by carrotflakes |
 | [Sleep Diary Core Library](https://github.com/sleepdiary/core) | [Documentation](https://sleepdiary.github.io/core) and code for manipulating sleep diaries | Active development | by Andrew Sayers |
-| [Sleep Diary Info](https://github.com/sleepdiary/info) | Analyse your sleep diary | Active development | by Andrew Sayers |
+| [Sleep Diary Info](https://github.com/sleepdiary/info) | Analyse your sleep diary, auto-detect common sleep patterns | Active development | by Andrew Sayers |
 | [Sleep Diary Report](https://github.com/sleepdiary/report) | A report for use by sleep doctors | Active development | by Andrew Sayers |
 | [SleepCharter](https://sleepcharter.z13.web.core.windows.net/) | Tool to generate sleep charts from CSV files of some popular devices / apps | Live | Source code not published, made by [Kizari](https://github.com/Kizari) |
 
