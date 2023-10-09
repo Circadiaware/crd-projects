@@ -38,3 +38,7 @@ If you are interested in working on one of these, feel free to open an issue to 
 |--------------|--------------------------------------------------------|--------------|----------|
 | [Circalog](https://github.com/Circadiaware/circalog) | An easy cross-platform logger for daily circadian/periodic events | Draft | Specifications and mock-up app [here](https://github.com/Circadiaware/circalog). By the Circadiaware collective. |
 | [PLR-screener](https://github.com/Circadiaware/crd-projects/blob/main/drafts/plr-screener.md) | Photosensitivity screener to assess response to light therapy and potential presence circadian rhythm disorder via pupillary light reflex testing on smartphones | Draft | Preliminary notes on potential technical implementation, scientific basis and feasability are available [here](https://github.com/Circadiaware/crd-projects/blob/main/drafts/plr-screener.md).|
+
+Honorable mentions:
+
+* [Medito](https://github.com/meditohq/medito-app) app (Android, iOS): open-source meditation app. We are convinced of the usefulness of meditation-based approaches for sleep issues, but if this interests you, at least this app is free and open-source.
